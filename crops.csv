@@ -1,0 +1,14 @@
+Crops,Level,Growth Time,Seed Cost,1 star value,2 star value,3 star value,4 star value,5 star value,1 star profit margin,2 star profit margin,3 star profit margin,4 star profit margin,5 star profit margin,Massimo Store Ingredient,Discounted Price,Base Price,Doris Store Ingredient,Base Price2
+Tomato,1,15m,10,30,40,50,60,90,67%,75%,80%,83%,89%,Meat,120,200,BlueSugar,150
+Potato,1,1h,30,90,120,150,180,210,67%,75%,80%,83%,86%,Egg,60,100,IndigoSugar,150
+Wheat,2,4h,95,285,381,475,570,855,67%,75%,80%,83%,89%,Milk,30,50,VioletSugar,150
+Lettuce,3,8h,145,435,582,726,870,1305,67%,75%,80%,83%,89%,Cheese,60,100,RedSugar,150
+Pineapple,4,30m,15,52,69,86,104,118,71%,78%,83%,86%,87%,Butter,90,150,OrangeSugar,200
+Carrot,5,2h,50,155,207,258,310,350,68%,76%,81%,84%,86%,CoffeeBeans,30,50,YellowSugar,150
+Strawberry,6,6h,125,375,502,626,750,1125,67%,75%,80%,83%,89%,TeaLeaves,150,250,GreenSugar,200
+Corn,6,12h,170,515,690,860,1030,1545,67%,75%,80%,83%,89%,MatchaPowder,150,250,,
+Grapes,7,10h,160,480,643,801,960,1440,67%,75%,80%,83%,89%,RiceFlour,30,50,,
+Eggplant,8,7h,135,406,544,678,812,1218,67%,75%,80%,83%,89%,RedBean,30,50,,
+TeaTree,11,45m,25,75,100,125,150,225,67%,75%,80%,83%,89%,CookingOil,60,100,,
+Cocoa,12,5h,110,330,442,551,660,990,67%,75%,80%,83%,89%,PasturizedEgg,60,100,,
+Avocado,13,14h,180,540,735,916,1098,1647,67%,76%,80%,84%,89%,,,,,

@@ -1,0 +1,85 @@
+Fish,Level,Weather,Time,Shadow Size,Location,1 star price,2 star price,3 star price,4 star price,5 star price
+Striped Red Mullet,1,"Sun, Rain, Snow, Rainbow",All day,Golden,Sea Fishing,320,480,640,1280,2560
+Common Octopus,4,"Sun, Rain, Snow, Rainbow",All day,"Medium, Golden",Sea Fishing,320,480,640,1280,2560
+Anglerfish,2,"Sun, Rain, Snow, Rainbow",All day,Golden,Sea Fishing,320,480,640,1280,2560
+Turbot,3,"Sun, Rain, Snow, Rainbow",All day,Medium,Sea Fishing,320,480,640,1280,2560
+European Flying Squid,5,"Sun, Rain, Snow, Rainbow",All day,Golden,Sea Fishing,320,480,640,1280,2560
+Nursehound,6,"Sun, Rain, Snow, Rainbow",All day,"Large, Golden",Sea Fishing,535,802,1070,2140,4280
+Giant Oarfish,7,"Sun, Rain, Snow, Rainbow",6:00AM-6:00PM,Golden,Sea Fishing,535,802,1070,2140,4280
+Golden King Crab,8,Rainbow,All day,Golden,Sea Fishing,850,1275,1700,3400,6800
+Moonfish,9,"Sun, Rain, Snow, Rainbow",6:00PM-6:00AM,Golden,Sea Fishing,850,1275,1700,3400,6800
+Shortfin Mako Shark,10,Rainbow,6:00AM-6:00PM,Golden,Sea Fishing,850,1275,1700,3400,6800
+Sardine,1,"Sun, Rain, Snow, Rainbow",All day,Small,Ocean,50,75,100,200,400
+Sea Bass,1,"Sun, Rain, Snow, Rainbow",All day,Medium,Ocean,75,112,150,300,600
+Skipjack Tuna,1,"Sun, Rain, Snow, Rainbow",All day,Large,Ocean,210,315,420,840,1680
+Rabbit Fish,4,"Sun, Rain, Snow, Rainbow",Mermaid Attractor,"Medium, Blue",Ocean,320,480,640,1280,2560
+Beltfish,1,"Sun, Rain, Snow, Rainbow",All day,Large,Zephyr Sea,105,157,210,420,840
+Atlantic Pygmy Octopus,3,"Sun, Rain, Snow, Rainbow",All day,Small,Zephyr Sea,150,225,300,600,1200
+False Scad,2,"Sun, Rain, Snow, Rainbow",All day,Medium,Zephyr Sea,155,232,310,620,1240
+European Lobster,5,"Sun, Rain, Snow, Rainbow",6:00PM-6:00AM,Medium,Zephyr Sea,230,345,460,920,1840
+Blackspot Seabream,7,"Rain, Snow, Rainbow",6:00PM-6:00AM,Medium,Zephyr Sea,230,345,460,920,1840
+Bluefin Tuna,9,Rainbow,6:00AM-6:00PM,Large,Zephyr Sea,850,1275,1700,3400,6800
+Common Prawn,1,"Sun, Rain, Snow, Rainbow",All day,Small,East Sea,50,75,100,200,400
+Hermit Crab,3,"Sun, Rain, Snow, Rainbow",All day,Small,East Sea,100,150,200,400,800
+Goby,4,"Sun, Rain, Snow, Rainbow",6:00AM-6:00PM,Small,East Sea,150,225,300,600,1200
+Tub Gurnard,6,Rainbow,All day,Medium,East Sea,380,570,760,1520,3040
+Haddock,8,"Sun, Rainbow",12:00PM-6:00AM,Medium,East Sea,230,345,460,920,1840
+Ocean Sunfish,9,"Sun, Rain, Snow, Rainbow",12:00AM-12:00PM,Large,East Sea,850,1275,1700,3400,6800
+Scad,1,"Sun, Rain, Snow, Rainbow",All day,Small,Whale Sea,50,75,100,200,400
+Seahorse,2,"Sun, Rain, Snow, Rainbow",12:00AM-6:00PM,Small,Whale Sea,100,150,200,400,800
+Atlantic Salmon,3,"Sun, Rain, Snow, Rainbow",12:00PM-6:00AM,Medium,Whale Sea,155,232,310,620,1240
+Atlantic Mackerel,5,"Sun, Rainbow",12:00PM-12:00AM,Small,Whale Sea,150,225,300,600,1200
+King Crab,8,Rainbow,6:00AM-12:00AM,Large,Whale Sea,535,802,1070,2140,4280
+Swordfish,10,Rainbow,6:00AM-6:00PM,Large,Whale Sea,850,1275,1700,3400,6800
+Sea Stickleback,1,"Sun, Rain, Snow, Rainbow",All day,Small,Old Sea,50,75,100,200,400
+Clownfish,3,"Sun, Rain, Snow, Rainbow",All day,Small,Old Sea,100,150,200,400,800
+European Plaice,4,"Sun, Rain, Snow, Rainbow",6:00PM-6:00AM,Medium,Old Sea,230,345,460,920,1840
+Pufferfish,6,"Sun, Rain, Snow, Rainbow",12:00PM-12:00AM,Medium,Old Sea,230,345,460,920,1840
+European Eel,7,Rainbow,6:00AM-12:00AM,Medium,Old Sea,380,570,760,1520,3040
+Smooth Hammerhead,10,Rainbow,6:00PM-6:00AM,Large,Old Sea,850,1275,1700,3400,6800
+Common Bleak,1,"Sun, Rain, Snow, Rainbow",All day,Small,Lake,50,75,100,200,400
+Common Chub,1,"Sun, Rain, Snow, Rainbow",All day,Medium,Lake,75,112,150,300,600
+Edible Frog,4,"Sun, Rain, Snow, Rainbow",Mermaid Attractor,Blue,Lake,320,480,640,1280,2560
+Tench,1,"Sun, Rain, Snow, Rainbow",All day,Small,Forest Lake,50,75,100,200,400
+Largemouth Bass,4,"Sun, Rainbow",All day,Medium,Forest Lake,230,345,460,920,1840
+Mud Sunfish,2,"Sun, Rain, Snow, Rainbow",6:00AM-12:00AM,Small,Forest Lake,100,150,200,400,800
+European Crayfish,3,"Sun, Rain, Snow, Rainbow",6:00PM-12:00PM,Small,Forest Lake,100,150,200,400,800
+Large Pearl Mussel,6,Rainbow,All day,Medium,Forest Lake,380,570,760,1520,3040
+Blue European Crayfish,8,"Sun, Rain, Snow, Rainbow",6:00PM-6:00AM,Small,Forest Lake,250,375,500,1000,2000
+Arctic Char,10,"Rain, Snow, Rainbow",12:00PM-12:00AM,Medium,Forest Lake,610,915,1220,2440,4880
+European Smelt,2,"Sun, Rain, Snow, Rainbow",All day,Medium,Meadow Lake,100,150,200,400,800
+Trout,5,"Sun, Rain, Snow, Rainbow",6:00PM-6:00AM,Medium,Meadow Lake,230,345,460,920,1840
+Butterfly Koi,4,"Rain, Snow, Rainbow",All day,Large,Meadow Lake,320,480,640,1280,2560
+Goldfish,8,"Rain, Snow, Rainbow",6:00AM-6:00PM,Small,Meadow Lake,250,375,500,1000,2000
+Wels Catfish,10,"Sun, Rainbow",6:00PM-6:00AM,Medium,Meadow Lake,610,915,1220,2440,4880
+Crucian Carp,4,"Sun, Rain, Snow, Rainbow",All day,Medium,Suburban Lake,75,112,150,300,600
+Schneider,1,"Sun, Rain, Snow, Rainbow",All day,Small,Suburban Lake,50,75,100,200,400
+Stone Loach,2,"Sun, Rain, Snow, Rainbow",All day,Small,Suburban Lake,100,150,200,400,800
+Mussel,3,"Rain, Snow, Rainbow",All day,Small,Suburban Lake,100,150,200,400,800
+River Crab,4,"Rain, Snow, Rainbow",All day,Small,Suburban Lake,100,150,200,400,800
+Common Rudd,5,"Sun, Rain, Snow, Rainbow",All day,Small,Suburban Lake,150,225,300,600,1200
+Grayling,6,"Sun, Rain, Snow, Rainbow",All day,Medium,Suburban Lake,230,345,460,920,1840
+Mediterranean Killifish,7,"Sun, Rainbow",12:00PM-6:00AM,Small,Suburban Lake,150,225,300,600,1200
+European Mudminnow,8,"Sun, Rainbow",12:00AM-12:00PM,Small,Suburban Lake,250,375,500,1000,2000
+Northern Pike,9,"Rain, Snow, Rainbow",6:00PM-6:00AM,Medium,Suburban Lake,610,915,1220,2440,4880
+Common Whitefish,1,"Sun, Rain, Snow, Rainbow",All day,Medium,Onsen Mountain Lake,105,157,210,420,840
+Ruffe,2,"Sun, Rainbow",12:00PM-12:00AM,Small,Onsen Mountain Lake,100,150,200,400,800
+Tadpole,3,"Rain, Snow, Rainbow",All day,Small,Onsen Mountain Lake,100,150,200,400,800
+Mottled Sculpin,7,"Rain, Snow, Rainbow",6:00AM-12:00AM,Small,Onsen Mountain Lake,150,225,300,600,1200
+Pumpkinseed,9,"Sun, Rainbow",6:00AM-12:00AM,Small,Onsen Mountain Lake,250,375,500,1000,2000
+Bluegill,10,"Sun, Rainbow",6:00PM-6:00AM,Small,Onsen Mountain Lake,395,592,790,1580,3160
+European Perch,1,"Sun, Rain, Snow, Rainbow",All day,Medium,River,75,112,150,300,600
+Oriental Shrimp,1,"Sun, Rain, Snow, Rainbow",All day,Small,River,50,75,100,200,400
+Tilapia,4,"Sun, Rain, Snow, Rainbow",Mermaid Attractor,"Medium, Blue",River,320,480,640,1280,2560
+Barbel,1,"Sun, Rain, Snow, Rainbow",All day,Medium,Shallow River,75,112,150,300,600
+Three-Spined Stickleback,7,"Sun, Rain, Snow, Rainbow",All day,Small,Shallow River,150,225,300,600,1200
+Minnow,1,"Sun, Rain, Snow, Rainbow",All day,Small,Tranquil River,50,75,100,200,400
+Burbot,4,"Rain, Snow, Rainbow",12:00PM-12:00AM,Large,Tranquil River,230,345,460,920,1840
+Chum Salmon,6,Rainbow,All day,Small,Tranquil River,150,225,300,600,1200
+Spined Loach,1,"Sun, Rain, Snow, Rainbow",All day,Small,Giantwood River,50,75,100,200,400
+Zander,3,"Sun, Rain, Rainbow",All day,Medium,Giantwood River,230,345,460,920,1840
+Red-Bellied Piranha,4,"Sun, Rain, Snow, Rainbow",All day,Medium,Giantwood River,230,345,460,920,1840
+Huchen,9,Rainbow,12:00PM-6:00AM,Medium,Giantwood River,380,570,760,1520,3040
+Streber,1,"Sun, Rain, Snow, Rainbow",All day,Small,Rosy River,50,75,100,200,400
+Common Carp,4,"Sun, Rainbow",12:00PM-12:00AM,Medium,Rosy River,50,75,100,200,400
+Freshwater Blenny,5,"Sun, Rain, Snow, Rainbow",All day,Small,Rosy River,150,225,300,600,1200

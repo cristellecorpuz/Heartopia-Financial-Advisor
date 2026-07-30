@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+
+  chromadb:
+    image: chromadb/chroma:latest
+    ports:
+      - "8000:8000"
+    volumes:
+      - chroma_data:/chroma/chroma
+
+  heartopia-app:
+    build: .
+    ports:
+      - "8501:8501"
+    depends_on:
+      - chromadb
+    environment:
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - CHROMA_HOST=chromadb 
+    volumes:
+      - ./feedback.csv:/app/feedback.csv 
+      - ./app_reviews.csv:/app/app_reviews.csv
+
+volumes:
+  chroma_data:

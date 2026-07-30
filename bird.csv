@@ -1,0 +1,63 @@
+Bird Card,Level,Weather,Distance,Stretch Time,Location,1 star value,2 star value,3 star value,4 star value,5 star value
+Invalid,1,"Sun, Rain, Snow, Rainbow",Invalid,Invalid,Any,1,Invalid,Invalid,Invalid,Invalid
+Greater Flamingo,1,"Sun, Rain, Snow, Rainbow",4m,All day Rain/Rainbow,Waterside,15,60,120,240,480
+Mallard,1,"Sun, Rain, Snow, Rainbow",3m,All day Rain/Rainbow,Lake,12,50,100,200,400
+Eurasian Wigeon,2,"Sun, Rain, Snow, Rainbow",3m,"All day Rain/Rainbow, Bird Whistle 12AM-6AM",River,17,70,140,280,560
+King Eider,3,"Sun, Rain, Snow, Rainbow",3m,"All day Rain/Rainbow, Bird Whistle 12AM-6AM",River,17,70,140,280,560
+Seagull,2,"Sun, Rain, Snow, Rainbow",3m,All day Rain/Rainbow,Seaside,17,70,140,280,560
+European Shag,3,"Sun, Rain, Snow, Rainbow",4m,All day Rain/Rainbow,Ocean,17,70,140,280,560
+Blue Peafowl,1,"Sun, Rain, Snow, Rainbow",5m,"All day Rain/Rainbow, Bird Whistle 12AM-6AM",Nest of Hundreds Event,10,40,80,160,320
+Blue-and-Yellow Macaw,1,"Sun, Rain, Snow, Rainbow",3m,"All day Rain/Rainbow, Bird Whistle 12AM-6AM",Nest of Hundreds Event,7,30,60,120,240
+Red-and-Green Macaw,3,"Sun, Rain, Snow, Rainbow",3m,All day Rain/Rainbow,Nest of Hundreds Event,10,40,80,160,320
+Great Green Macaw,5,"Sun, Rain",3m,6:00PM-12:00AM,Nest of Hundreds Event,15,60,120,240,480
+Lear's Macaw,7,"Rain, Snow, Rainbow",ó3m,6:00PM-12:00AM,Nest of Hundreds Event,22,90,180,360,720
+Green Peafowl,9,"Sun, Rain, Snow, Rainbow",5m,12:00PM-6:00PM,"Nest of Hundreds Event, Phase 2",37,150,300,600,1200
+Eurasian Collared Dove,1,"Sun, Rain, Snow, Rainbow",3m,"All day Rain/Rainbow, Bird Whistle 12AM-6AM",Home Lots,10,40,80,160,320
+Eurasian Golden Oriole,3,"Sun, Rain, Snow, Rainbow",ó3m,6:00AM-12:00AM,Home Lots,15,60,120,240,480
+Eurasian Bullfinch,1,"Sun, Rain, Snow, Rainbow",3m,"All day Rain/Rainbow, Bird Whistle 12AM-6AM",Suburbs,7,30,60,120,240
+Woodchat Shrike,2,"Sun, Rain, Snow, Rainbow",3m,"All day Rain/Rainbow, Bird Whistle 12AM-6AM",Suburbs,10,40,80,160,320
+Ruddy Shelduck,3,"Sun, Rain, Snow, Rainbow",3m,All day Rain/Rainbow,Suburban Lake,17,70,140,280,560
+Jambu Fruit Dove,7,"Sun, Rain, Snow, Rainbow",3m,6:00AM-12:00AM,Suburbs,27,110,220,440,880
+Eastern Bluebird,8,"Rain, Snow, Rainbow",ó3m,6:00PM-12:00AM,Suburbs,30,120,240,480,960
+Paradise Tanager,9,Rainbow,ó3m,6:00PM-12:00AM,Suburbs,30,120,240,480,960
+Stock Dove,1,"Sun, Rain, Snow, Rainbow",3m,"All day Rain/Rainbow, Bird Whistle 12AM-6AM",Central Area,10,40,80,160,320
+Eurasian Robin,1,"Sun, Rain, Snow, Rainbow",3m,"All day Rain/Rainbow, Bird Whistle 12AM-6AM",Central Area,7,30,60,120,240
+Long-Tailed Tit,1,"Sun, Rain, Snow, Rainbow",2m,"All weather, All day",Blanc's Head,2,8,16,32,64
+Pied Imperial Pigeon,1,"Sun, Rain, Snow, Rainbow",3m,"All day Rain/Rainbow, Bird Whistle 12AM-6AM",Fishing Village,10,40,80,160,320
+Eurasian Nuthatch,2,"Sun, Rain, Snow, Rainbow",3m,"All day Rain/Rainbow, Bird Whistle 12AM-6AM",Fishing Village,10,40,80,160,320
+Przevalski's Parrotbill,4,"Sun, Rainbow",3m,6:00AM-12:00AM,Fishing Village Square,15,60,120,240,480
+Yellow Bellied Flycatcher,5,"Sun, Rain, Snow, Rainbow",3m,6:00AM-12:00AM,Fishing Village Wharf,15,60,120,240,480
+Cinnamon Ground Dove,6,"Sun, Rain, Snow, Rainbow",3m,6:00AM-12:00AM,Fishing Village East Pier,27,110,220,440,880
+Double-Barred Finch,3,"Sun, Rain, Rainbow",2m,"All day Rain/Rainbow, Bird Whistle 12AM-6AM",Fishing Village Lighthouse,10,40,80,160,320
+Azores Bullfinch,10,Rainbow,3m,6:00PM-12:00AM,Fishing Village Lighthouse,30,120,240,480,960
+Audouin's Gull,3,"Sun, Rain, Snow, Rainbow",3m,"All day Rain/Rainbow, Bird Whistle 12AM-6AM","Whale Sea, Seaside",17,70,140,280,560
+Red Faced Cormorant,6,"Sun, Rain, Snow, Rainbow",4m,6:00AM-12:00AM,"Whale Sea, Old Sea",22,90,180,360,720
+Pink-Necked Green Pigeon,2,"Sun, Rain, Snow, Rainbow",3m,"All day Rain/Rainbow, Bird Whistle",Flower Field,15,60,120,240,480
+Eurasian Chaffinch,1,"Sun, Rain, Snow, Rainbow",3m,12AM-6AM,Flower Field,7,30,60,120,240
+White Wagtail,4,"Sun, Rain, Snow, Rainbow",3m,6:00AM-12:00AM,"Flower Field, Amethyst Beach",15,60,120,240,480
+American Flamingo,9,Rainbow,ó4m,12:00PM-6:00PM,"Flower Field, Amethyst Beach",55,220,440,880,1760
+Wallace's Fruit Dove,4,"Sun, Rain, Snow, Rainbow",3m,"All day Rain/Rainbow, Bird Whistle 12AM-6AM","Flower Field, Windmill",17,70,140,280,560
+Azure Tit,7,"Sun, Rain, Snow, Rainbow",3m,6:00AM-12:00AM,"Flower Field, Windmill",22,90,180,360,720
+Pink Pigeon,8,"Sun, Rain, Snow, Rainbow",3m,12:00PM-12:00AM,"Flower Field, Whale Mountain",27,110,220,440,880
+Brown Noddy,5,"Sun, Rain, Snow, Rainbow",3m,6:00AM-12:00AM,"Old Sea, Seaside",22,90,180,360,720
+Great Tit,1,"Sun, Rain, Snow, Rainbow",3m,"All day Rain/Rainbow, Bird Whistle 12AM-6AM",Onsen Mountain,7,30,60,120,240
+Bearded Reedling,2,"Sun, Rain, Snow, Rainbow",3m,12AM-6AM,Onsen Mountain,10,40,80,160,320
+African Olive Pigeon,5,"Sun, Rain, Snow, Rainbow",4m,6:00AM-12:00AM,Onsen Mountain,27,110,220,440,880
+Peregrine Falcon,8,"Rain, Snow, Rainbow",ó4m,6:00PM-12:00AM,Onsen Mountain,65,260,520,1040,2080
+Hawfinch,6,"Sun, Rain, Snow, Rainbow",3m,6:00AM-12:00AM,Onsen Mountain Crater Lake,15,60,120,240,480
+Long Eared Owl,6,"Sun, Rain, Snow, Rainbow",4m,6:00PM-12:00AM,Onsen Mountain Stone Cliff,47,190,380,760,1520
+European Bee-Eater,5,"Sun, Rainbow",ó3m,6:00AM-12:00AM,Onsen Mountain Lakeshore,22,90,180,360,720
+White-Headed Duck,9,"Rain, Snow, Rainbow",ó3m,12:00PM-6:00PM,Onsen Mountain Lakeshore,45,180,360,720,1440
+Lady Amherst Pheasant,4,"Sun, Rain, Snow, Rainbow",3m,"All day Rain/Rainbow, Bird Whistle 12AM-6AM",Onsen Mountain Ruins,17,70,140,280,560
+Amur Falcon,10,"Sun, Rain, Snow, Rainbow",4m,6:00PM-12:00AM,Onsen Mountain Ruins,65,260,520,1040,2080
+Eurasian Wren,1,"Sun, Rain, Snow, Rainbow",2m,"All day Rain/Rainbow, Bird Whistle 12AM-6AM",Forest,7,30,60,120,240
+Wonga Pigeon,2,"Sun, Rain, Snow, Rainbow",3m,"All day Rain/Rainbow, Bird Whistle 12AM-6AM",Forest,15,60,120,240,480
+Silver-Throated Tit,3,"Sun, Rain, Snow, Rainbow",3m,All day Rain/Rainbow,Forest Jump Puzzle,10,40,80,160,320
+Verditer Flycatcher,10,Rainbow,3m,6:00PM-12:00AM,Forest Jump Puzzle,30,120,240,480,960
+Pine Grosbeak,4,"Sun, Rain, Snow, Rainbow",3m,6:00AM-12:00AM,Forest Island,15,60,120,240,480
+Smew,4,"Sun, Rain, Snow, Rainbow",3m,6:00AM-12:00AM,Forest Lake,22,90,180,360,720
+Lesser Flamingo,5,"Rain, Snow, Rainbow",ó4m,6:00AM-12:00AM,Forest Lake Shore,27,110,220,440,880
+Regent Bowerbird,4,"Sun, Rain, Snow, Rainbow",3m,6:00AM-12:00AM,Spirit Oak Pine Forest,15,60,120,240,480
+Redpoll,8,"Sun, Rain, Snow, Rainbow",3,12:00PM-12:00AM,Spirit Oak Pine Forest,22,90,180,360,720
+Common Kestrel,7,"Sun, Rainbow",4m,6:00AM-12:00AM,Forest Deer Tower,47,190,380,760,1520
+Eagle-Owl,10,"Rain, Snow, Rainbow",ó4m,6:00PM-12:00AM,Forest Deer Tower,65,260,520,1040,2080

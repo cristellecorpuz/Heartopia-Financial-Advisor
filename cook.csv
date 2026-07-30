@@ -1,0 +1,116 @@
+Food,Level,Star Ratings 1,Star Ratings 2,Star Ratings 3,Star Ratings 4,Star Ratings 5,Recipe,Total Cost,Raw Profit,Net Profit 1,Net Profit 2,Net Profit 3,Net Profit 4,Net Profit 5,Source,Column1,Needed for mastery
+Bizarre food,,30.0,-,-,-,-,Burn any food,0,,30.0,,,,,,,No Mastery
+Bizzare drink,,30.0,-,-,-,-,Burn any drink,0,,30.0,,,,,,,No Mastery
+House Salad,,90.0,135,180,360,720,2 Vegetable,20,40,70.0,115.0,160,340.0,700.0,,,960
+Jams,,,,,,,,,,,,,,,,,960
+Mixed Jam,1.0,160.0,240,320,640,1280,4 Fruit,all foraged,64,160.0,240.0,320,640.0,1280.0,,,960
+Blueberry Jam,1.0,170.0,255,340,680,1360,4 Blueberry,all foraged,64,170.0,255.0,340,680.0,1360.0,,,960
+Tomato Sauce,1.0,180.0,270,360,720,1440,4 Tomato,40,80,140.0,230.0,320,680.0,1400.0,,,960
+Raspberry Jam,1.0,250.0,475,500,1000,2000,4 Raspberry,all foraged,104,250.0,475.0,500,1000.0,2000.0,,,960
+Apple Jam,1.0,270.0,405,540,1080,2160,4 Apple,all foraged,112,270.0,405.0,540,1080.0,2160.0,,,960
+Mandarin Jam,1.0,270.0,405,540,1080,2160,4 Mandarin,all foraged,112,270.0,405.0,540,1080.0,2160.0,,,960
+Pineapple Jam,4.0,280.0,420,560,1120,2240,4 Pineapple,60,148,220.0,360.0,500,1060.0,2180.0,,,960
+Strawberry Jam,6.0,1580.0,2370,3160,6320,12640,4 Strawberry,500,1000,1080.0,1870.0,2660,5820.0,12140.0,,,960
+Grape Jam,7.0,2020.0,3030,4040,8080,16160,4 Grapes,640,1280,1380.0,2390.0,3400,7440.0,15520.0,,,960
+Chocolate Sauce,12.0,1400.0,2100,2800,5600,11200,4 Cocoa,440,880,960.0,1660.0,2360,5160.0,10760.0,,,960
+Grilled,,,,,,,,,,,,,,,,,
+Grilled Mushroom,1.0,180.0,270,360,720,1440,4 Mushroom,all foraged,64,180.0,270.0,360,720.0,1440.0,,,720
+Grilled Button Mushroom,1.0,180.0,270,360,720,1440,4 Button,all foraged,64,180.0,270.0,360,720.0,1440.0,,,720
+Grilled Oyster Mushroom,1.0,180.0,270,360,720,1440,4 Oyster,all foraged,64,180.0,270.0,360,720.0,1440.0,,,720
+Grilled Penny Bun,1.0,180.0,270,360,720,1440,4 PennyBun,all foraged,64,180.0,270.0,360,720.0,1440.0,,,720
+Grilled Shiitake Mushroom,1.0,180.0,270,360,720,1440,4 Shiitake,all foraged,64,180.0,270.0,360,720.0,1440.0,,,720
+Pies,,,,,,,,,,,,,,,,,
+Mushroom Pie,1.0,500.0,750,1000,2000,4000,"2 Mushroom, 1 Wheat, 1 Egg",195,222,305.0,555.0,805,1805.0,3805.0,,,720
+Button Mushroom Pie,1.0,500.0,750,1000,2000,4000,"2 Button, 1 Wheat, 1 Egg",195,222,305.0,555.0,805,1805.0,3805.0,,,720
+Oyster Mushroom Pie,1.0,500.0,750,1000,2000,4000,"2 Oyster, 1 Wheat, 1 Egg",195,222,305.0,555.0,805,1805.0,3805.0,,,720
+Penny Bun Pie,1.0,500.0,750,1000,2000,4000,"2 PennyBun, 1 Wheat, 1 Egg",195,222,305.0,555.0,805,1805.0,3805.0,,,720
+Shiitake Pie,1.0,500.0,750,1000,2000,4000,"2 Shiitake, 1 Wheat, 1 Egg",195,222,305.0,555.0,805,1805.0,3805.0,,,720
+Apple Pie,5.0,730.0,1095,1460,2920,5840,"1 Apple, 1 Wheat, 1 Egg, 1 Butter",345,218,385.0,750.0,1115,2575.0,5495.0,,,720
+Black Truffle Pie,1.0,830.0,1245,1660,3320,6640,"2 BlackTruffle, 1 Wheat, 1 Egg",195,388,635.0,1050.0,1465,3125.0,6445.0,,,720
+Roll Cakes,,,,,,,,,,,,,,,,,
+Original Roll Cake,1.0,550.0,825,1100,2280,4400,"1 Egg, 1 Milk, 2 Sugar",150,all store bought,400.0,675.0,950,2130.0,4250.0,,,270
+Blue Roll Cake,1.0,570.0,855,1140,2280,4560,"1 Egg, 1 Milk, 2 BlueSugar",450,all store bought,120.0,405.0,690,1830.0,4110.0,,,270
+Indigo Roll Cake,1.0,570.0,855,1140,2280,4560,"1 Egg, 1 Milk, 2 IndigoSugar",450,all store bought,120.0,405.0,690,1830.0,4110.0,,,270
+Violet Roll Cake,1.0,570.0,855,1140,2280,4560,"1 Egg, 1 Milk, 2 VioletSugar",450,all store bought,120.0,405.0,690,1830.0,4110.0,,,270
+Red Roll Cake,1.0,670.0,1005,1340,2680,5360,"1 Egg, 1 Milk, 2 RedSugar",450,all store bought,220.0,555.0,890,2230.0,4910.0,,,270
+Yellow Roll Cake,1.0,670.0,1005,1340,2680,5360,"1 Egg, 1 Milk, 2 YellowSugar",450,all store bought,220.0,555.0,890,2230.0,4910.0,,,270
+Orange Roll Cake,1.0,670.0,1005,1340,2680,5360,"1 Egg, 1 Milk, 2 OrangeSugar",550,all store bought,120.0,455.0,790,2130.0,4810.0,,,270
+Green Roll Cake,1.0,670.0,1005,1340,2680,5360,"1 Egg, 1 Milk, 2 GreenSugar",550,all store bought,120.0,455.0,790,2130.0,4810.0,,,270
+Coffee & Tea,,,,,,,,,,,,,,,,,
+Coffee,2.0,290.0,435,580,1160,2320,4 CoffeeBeans,200,all store bought,90.0,235.0,380,960.0,2120.0,,,960
+Coffee Latte,2.0,300.0,450,600,1200,2400,"2 CoffeeBeans, 2 Milk",200,all store bought,100.0,250.0,400,1000.0,2200.0,,,960
+Mellow Black Tea,11.0,840.0,1260,1680,3360,6720,2 TeaLeaves,500,all store bought,340.0,760.0,1180,2860.0,6220.0,,,360
+Fragrant Milk Tea,11.0,840.0,1260,1680,3360,6720,"2 TeaLeaves, 2 Milk",600,all store bought,240.0,660.0,1080,2760.0,6120.0,,,360
+Cocoa Milk Tea,11.0,1120.0,1680,2240,4480,8960,"2 TeaLeaves, 1 Milk, 1 Cocoa",660,220,460.0,1020.0,1580,3820.0,8300.0,,,360
+Refreshing Green Tea,12.0,500.0,750,1000,2000,4000,2 TeaTree,50,100,450.0,700.0,950,1950.0,3950.0,,,360
+Milk Tea,12.0,500.0,750,1000,2000,4000,"2 TeaTree, 2 Milk",150,100,350.0,600.0,850,1850.0,3850.0,,,360
+Matcha Milk Tea,12.0,700.0,1050,1400,2800,5600,"2 TeaTree, 1 Milk, 1 MatchaPowder",350,100,350.0,700.0,1050,2450.0,5250.0,,,360
+Daisy Tea,12.0,600.0,900,1200,2400,4800,"2 TeaTree, 2 WhiteDaisy",110,240,490.0,790.0,1090,2290.0,4690.0,,,360
+Rose Tea,12.0,1930.0,2895,3860,7720,15440,"2 TeaTree, 2 RedRose",650,1030,1280.0,2245.0,3210,7070.0,14790.0,,,360
+Others,,,,,,,,,,,,,,,,,
+Cheese Cake,1.0,480.0,720,960,1920,3840,"1 Cheese, 1 Milk, 1 Wheat",245,190,235.0,475.0,715,1675.0,3595.0,,,960
+Tiramisu,6.0,530.0,795,1060,2120,4240,"1 CoffeeBeans, 1 Egg, 1 Milk, 1 Butter",350,all store bought,180.0,445.0,710,1770.0,3890.0,,,480
+Rustic Ratatouille,3.0,640.0,960,1280,2560,5120,"1 Tomato, 1 Potato, 1 Lettuce",185,370,455.0,775.0,1095,2375.0,4935.0,,,720
+Meat Sauce Pasta,4.0,670.0,1005,1340,2680,5360,"1 Meat, 1 Tomato, 1 Wheat, 1 Cheese",405,210,265.0,600.0,935,2275.0,4955.0,,,720
+Carrot Cake,5.0,840.0,1260,1680,3360,6720,"1 Egg, 1 Wheat, 2 Carrot",295,400,545.0,965.0,1385,3065.0,6425.0,,,720
+Black Truffle Cream Pasta,3.0,900.0,1350,1980,3600,7200,"1 BlackTruffle, 1 Milk, 2 Wheat",240,479,660.0,1110.0,1740,3360.0,6960.0,,,720
+Corn Soup,5.0,1340.0,2010,2680,5360,10720,"1 Milk, 1 Butter, 2 Corn",540,690,800.0,1470.0,2140,4820.0,10180.0,,,720
+Meat Burger,8.0,1350.0,2025,2700,5400,10800,"1 Wheat, 1 Lettuce, 1 Meat, 1 TomatoSauce",480,560,870.0,1545.0,2220,4920.0,10320.0,,,480
+Baked Eggplant With Meat,9.0,1230.0,1845,2460,4920,9840,"1 Eggplant, 1 Meat, 1 CookingOil, 1 TomatoS",475,351,755.0,1370.0,1985,4445.0,9365.0,,,360
+Seafood,,,,,,,,,,,,,,,,,
+Fish N Chips,1.0,310.0,465,620,1240,2480,"2 Fish, 2 Potato",60,220,250.0,405.0,560,1180.0,2420.0,,,960
+Deluxe Seafood Platter,6.0,410.0,615,820,1640,3280,"2 Shellfish, 2 Fish",all fished,300,410.0,615.0,820,1640.0,3280.0,,,360
+Seafood Risotto,3.0,490.0,735,980,1960,3920,"2 Fish, 1 Wheat, 1 Tomato",105,310,385.0,630.0,875,1855.0,3815.0,,,720
+Smoked Fish Bagel,2.0,520.0,780,1040,2080,4160,"1 Fish, 1 Cheese, 1 Wheat, 1 Vegetable",205,260,315.0,575.0,835,1875.0,3955.0,,,960
+Seafood Pizza,4.0,780.0,1170,1560,3120,6240,"1 Cheese, 1 TomatoSauce, 1 Wheat, 1 Fish",235,320,545.0,935.0,1325,2885.0,6005.0,,,720
+Steamed King Crab,10.0,1990.0,2985,3980,7960,15920,"3 KingCrab, 1 Butter",150,1605,1840.0,2835.0,3830,7810.0,15770.0,,,360
+Steamed Golden King Crab,10.0,2980.0,4470,5960,11920,23840,"3 GoldenKingCrab, 1 Butter",150,2550,2830.0,4320.0,5810,11770.0,23690.0,,,360
+Cheese Shrimp Stuffed Crab,13.0,1440.0,2160,2880,5760,11520,"2 KingCrab, 2 Shrimp",all fished,1170,1440.0,2160.0,2880,5760.0,11520.0,,,360
+Shrimp Avocado Cup,13.0,1560.0,2340,3120,6240,12480,"2 Shrimp, 2 Avocado",360,820,1200.0,1980.0,2760,5880.0,12120.0,,,360
+Sets,,,,,,,,,,,,Some SET formulas may differ,,,,,
+Afternoon Tea,7.0,710.0,1065,1420,2840,5680,"1 Tiramisu, 1 Fruit, or vegetable",350,16,360.0,715.0,1070,2490.0,5330.0,,,480
+Picnic Set,7.0,2260.0,3390,4520,9040,18080,"1 Seafood Pizza, 1 Apple Pie, 1 Fish & Chips, 1 Any Beverage",840,758,1420.0,2550.0,3680,8200.0,17240.0,,,480
+Candlelight Dinner,9.0,1760.0,2640,3520,7040,14080,"1 House Salad, 1 Smoked Fish Bagel, 1 Seafood Risotto, 1 Tiramisu",680,610,1080.0,1960.0,2840,6360.0,13400.0,,,360
+Crayfish Sashimi,8.0,850.0,1275,1700,3400,6800,"3 Shellfish, 1 Lettuce",145,590,705.0,1130.0,1555,3255.0,6655.0,,,360
+Blue European Crayfish Sashimi,8.0,1310.0,1965,2620,5240,10480,"3 BlueEuropeanCrayfish, 1 Lettuce",145,1040,1165.0,1820.0,2475,5095.0,10335.0,,,360
+Exquisite Afternoon Tea,12.0,2970.0,4455,5940,11880,23760,"2 Cheesecake, 2 Mellow Black Tea",1490,380,1480.0,2965.0,4450,10390.0,22270.0,,,360
+Milkshakes,,,,,,,,,,,,,,,,,
+Milkshake,11.0,400.0,600,800,1600,3200,"2 Fruit, 2 Milk",100,32,300.0,500.0,700,1500.0,3100.0,,,360
+Strawberry Milkshake,11.0,1090.0,1635,2180,4360,8720,"2 Strawberry, 2 Milk",350,500,740.0,1285.0,1830,4010.0,8370.0,,,360
+Pineapple Milkshake,11.0,440.0,660,880,1760,3520,"2 Pineapple, 2 Milk",130,74,310.0,530.0,750,1630.0,3390.0,,,360
+Mandarin Milkshake,11.0,450.0,675,900,1800,3600,"2 Mandarin, 2 Milk",100,56,350.0,575.0,800,1700.0,3500.0,,,360
+Raspberry Milkshake,11.0,440.0,660,880,1760,3520,"2 Raspberry, 2 Milk",100,52,340.0,560.0,780,1660.0,3420.0,,,360
+Blueberry Milkshake,11.0,400.0,600,800,1600,3200,"2 Blueberry, 2 Milk",100,32,300.0,500.0,700,1500.0,3100.0,,,360
+Apple Milkshake,11.0,450.0,675,900,1800,3600,"2 Apple, 2 Milk",100,56,350.0,575.0,800,1700.0,3500.0,,,360
+Chocolate Milkshake,11.0,1000.0,1500,2000,4000,8000,"2 Cocoa, 2 Milk",320,440,680.0,1180.0,1680,3680.0,7680.0,,,360
+Grape Milkshake,11.0,1300.0,1950,2600,5200,10400,"2 Grapes, 2 Milk",420,640,880.0,1530.0,2180,4780.0,9980.0,,,360
+Matcha Milkshake,11.0,840.0,1260,1680,3360,6720,"2 MatchaPowder, 2 Milk",600,all store bought,240.0,660.0,1080,2760.0,6120.0,,,360
+ALL EVENT ACQUIRED,,,,,,,,,,,,,,,,,
+Onsen Egg,1.0,130.0,195,260,520,1040,1 Pasturized Egg,100,all store bought,30.0,95.0,160,420.0,940.0,,,No Mastery
+Grass Cake,1.0,690.0,1035,1380,2760,5520,"1 Wheat, 1 Milk, 1 MatchaPowder, 1 Weed",395,190,295.0,640.0,985,2365.0,5125.0,,,No Mastery
+Sanrio Characters 7/17-8/24,1.0,,,,,,,,,,,,,,,,
+My Melody Crepe,1.0,670.0,1005,1340,2680,5360,"1 Wheat, 1 Butter, 1 Egg, 1 Milk",395,190,275.0,610.0,945,2285.0,4965.0,,,No Mastery
+Cinnamonroll Crepe,1.0,670.0,1005,1340,2680,5360,"1 Wheat, 1 Butter, 1 Egg, 1 CoffeeBeans",395,190,275.0,610.0,945,2285.0,4965.0,,,No Mastery
+Kuromi Crepe,1.0,670.0,1006,1341,2681,5361,"1 Wheat, 1 Butter, 1 Egg, 1 Raspberry",396,345,274.0,610.0,946,2285.0,4965.0,,,No Mastery
+Midsummer Rhyme 6/19-7/6 2026,1.0,,,,,,,,,,,,,,,,
+Triangle Plain Rice Zongzi,1.0,240.0,360,480,960,1920,"1 BambooLeaf, 3 PaddyRice",86,75,154.0,274.0,394,874.0,1834.0,,,No Mastery
+Triangle Red Bean Zongzi,1.0,260.0,390,520,1040,2080,"1 BambooLeaf, 1 PaddyRice, 2 RedBean",162,25,98.0,228.0,358,878.0,1918.0,,,No Mastery
+Triangle Egg Yolk & Pork Zongzi,1.0,460.0,690,920,1840,3680,"1 BambooLeaf, 1 PaddyRice, 1 Egg, 1 Meat",362,25,98.0,328.0,558,1478.0,3318.0,,,No Mastery
+Pillow Shaped Plain Rice Zongzi,1.0,240.0,360,480,960,1920,"1 BambooLeaf, 3 PaddyRice",86,75,154.0,274.0,394,874.0,1834.0,,,No Mastery
+Pillow Shaped Red Bean Zongzi,1.0,260.0,390,520,1040,2080,"1 BambooLeaf, 1 PaddyRice, 2 RedBean",162,25,98.0,228.0,358,878.0,1918.0,,,No Mastery
+Pillow Shaped Egg Yolk & Pork Zongzi,1.0,460.0,690,920,1840,3680,"1 BambooLeaf, 1 PaddyRice, 1 Egg, 1 Meat",362,25,98.0,328.0,558,1478.0,3318.0,,,No Mastery
+Rainbow Verse 5/28-6/22 2026,,,,,,,,,,,,,,,,,
+Rainbow Spark,1.0,170.0,255,340,680,1360,4 Fruit,all foraged,64,170.0,255.0,340,680.0,1360.0,,,No Mastery
+Rainbow Heart,1.0,170.0,255,340,680,1360,4 Fruit,all foraged,64,170.0,255.0,340,680.0,1360.0,,,No Mastery
+Maltese Recipes 4/30-5/6 2026,,,,,,,,,,,,,,,,,
+Maltese Canele,1.0,910.0,1365,1820,3640,7280,"1 Egg, 1 Milk, 1 Wheat, 1 Strawberry",370,440,540.0,995.0,1450,3270.0,6910.0,,,No Mastery
+Retriever Canele,1.0,590.0,885,1180,2360,4720,"1 Egg, 1 Milk, 1 Wheat, 1 CoffeeBeans",295,190,295.0,590.0,885,2065.0,4425.0,,,No Mastery
+Maltese Con Panna,1.0,520.0,780,1040,2080,4160,"3 Milk, 1 Coffee",150,all store bought,370.0,630.0,890,1930.0,4010.0,,,No Mastery
+Retriever Con Panna,1.0,520.0,780,1040,2080,4160,"2 Milk, 1 CoffeeBeans, 1 Coffee",150,all store bought,370.0,630.0,890,1930.0,4010.0,,,No Mastery
+Heart Puppies Con Panna,1.0,1220.0,1830,2440,4880,9760,"2 Milk, 2 Coffee",100,all store bought,1120.0,1730.0,2340,4780.0,9660.0,,,No Mastery
+Revival Hymn 4/4-4/27 2026,,,,,,,,,,,,,,,,,
+Egg_Easter,1.0,190.0,285,380,760,1520,"1 Egg, 1 Milk",150,all store bought,40.0,135.0,230,610.0,1370.0,,,No Mastery
+Orange Egg,1.0,190.0,285,380,760,1520,"1 Egg, 1 Apple",100,28,90.0,185.0,280,660.0,1420.0,,,No Mastery
+Green Egg,1.0,570.0,855,1140,2280,4560,"1 Egg, 1 Lettuce",245,290,325.0,610.0,895,2035.0,4315.0,,,No Mastery
+Purple Egg,1.0,620.0,930,1240,2480,4960,"1 Egg, 1 Grapes",260,320,360.0,670.0,980,2220.0,4700.0,,,No Mastery
+Colorful Egg Feast,1.0,1650.0,2475,3300,6600,13200,"1 Egg_Easter, 1 Purple Egg, 1 Orange Egg, 1 Green Egg",755,638,895.0,1720.0,2545,5845.0,12445.0,,,No Mastery

@@ -1,0 +1,65 @@
+Insects,Level,Weather,Time,Location,1 star price,2 star price,3 star price,4 star price,5 star price
+Large Red Damselfly,1,"Sun, Rain, Snow, Rainbow",All Day,Waterside,35,52,70,140,280
+Orange-Tip,1,"Sun, Rain, Snow, Rainbow",All Day,Central Area,30,45,60,120,240
+Common Blue Butterfly,2,"Sun, Rain, Snow, Rainbow",All Day,Central Area,105,157,210,300,600
+Sulkowsky's Morpho,2,"Sun, Rain, Snow, Rainbow",All Day,Inflatable Insect Attractor,90,135,180,360,720
+Common Whitetail,4,"Rain, Snow, Rainbow",All Day,River Bank,75,112,150,300,600
+Apollo,1,"Sun, Rain, Snow, Rainbow",All Day,Bait the Insects Event,30,45,60,120,240
+Postman Butterfly,1,"Sun, Rain, Snow, Rainbow",All Day,Bait the Insects Event,30,45,60,120,240
+Pink Katydid,3,"Sun, Rain, Snow, Rainbow",All Day,Bait the Insects Event,90,135,180,360,720
+White Witch,6,"Sun, Rainbow",All Day,Bait the Insects Event,90,135,180,360,720
+Chestnut Tiger,7,"Rain, Snow, Rainbow",All Day,Bait the Insects Event,150,225,300,600,1200
+Rainbow Stag Beetle,10,"Sun, Rain, Snow, Rainbow",All Day,Bait the Insects Event Ruins,440,660,880,1760,3520
+European Firebug,1,"Sun, Rain, Snow, Rainbow",All Day,Home Lot Rocks,35,52,70,140,280
+Amethyst Flower Beetle,2,"Rain, Snow, Rainbow",All Day,Home Lot Rocks,165,247,330,660,1320
+Rajah Brooke's Birdwing,3,"Sun, Rain, Snow, Rainbow",6:00PM-12:00PM,Home Lots,90,135,180,360,720
+Common Brimstone,1,"Sun, Rain, Snow, Rainbow",All Day,Suburbs,30,45,60,120,240
+Four-Spotted Skimmer,2,"Rain, Snow, Rainbow",All Day,Suburban Lakeshore,75,112,150,300,600
+Seven-Spotted Ladybug,2,"Rain, Snow, Rainbow",All Day,Suburbs,110,165,220,440,880
+Mini Moon Moth,3,"Sun, Rainbow",6:00AM-12:00AM,Suburbs,105,158,210,420,840
+Large Banded Grasshopper,4,"Sun, Rainbow",12:00PM-6:00AM,Suburbs,140,210,280,460,1120
+Green Birdwing,6,"Sun, Rain, Snow, Rainbow",6:00PM-6:00AM,Suburbs,150,225,300,600,1200
+Comet Moth,8,"Sun, Rainbow",6:00PM-6:00AM,Suburbs,240,360,480,960,1920
+Cabbage White,1,"Sun, Rain, Snow, Rainbow",All Day,Fishing Village,30,45,60,120,240
+Siberian Grasshopper,2,"Sun, Rain, Snow, Rainbow",All Day,Fishing Village,90,135,180,360,720
+Ant,3,"Sun, Rain, Snow, Rainbow",All Day,Fishing Village Square,220,330,440,880,1760
+Beautiful Leopard,4,"Rain, Snow, Rainbow",6:00PM-12:00PM,Fishing Village Wharf,90,135,180,360,720
+Blue Shieldbug,6,"Sun, Rain, Snow, Rainbow",6:00AM-6:00PM,Fishing Village Lighthouse,110,165,220,440,880
+Horned Beetle,8,"Sun, Rainbow",6:00PM-6:00AM,Fishing Village East Pier,275,412,550,1100,2200
+Cerulean Carpenter,9,Rainbow,6:00PM-6:00AM,Fishing Village Square,440,660,880,1760,3520
+Gold Grasshoppers,1,"Sun, Rain, Snow, Rainbow",All Day,Onsen Mountain,45,67,90,180,360
+Green Tiger Beetle,2,"Sun, Rain, Snow, Rainbow",All Day,Onsen Mountain,110,165,220,440,880
+Fire-Colored Beetle,3,"Sun, Rain, Snow, Rainbow",All Day,Onsen Mountain,110,165,220,440,880
+Four-Spotted Ladybug,4,"Rain, Snow, Rainbow",All Day,Onsen Mountain Crater Lake,165,247,330,660,1320
+Hercules Beetle,10,"Sun, Rainbow",12:00PM-12:00AM,Onsen Mountain Crater Lake,440,660,880,1760,3520
+Mediterranean Mantis,5,"Sun, Rainbow",12:00PM-6:00AM,Onsen Mountain Stone Cliff,195,292,390,780,1560
+Giant Asian Mantis,5,"Sun, Rainbow",All Day,Onsen Mountain Ruins,390,585,780,1560,3120
+Mourning Cloak,5,"Sun, Rainbow",12:00AM-6:00PM,"Onsen Mountain, Onsen",90,135,180,360,720
+Silver Jewel Scarab,6,"Sun, Rainbow",12:00AM-6:00PM,Onsen Stone Cliff,165,247,330,660,1320
+Crimson Marsh Glider,7,Rainbow,12:00PM-6:00AM,Onsen Mountain Lakeshore,185,277,370,740,1480
+Minotaur Beetle,8,"Sun, Rain, Snow, Rainbow",12:00AM-6:00PM,Onsen Mountain Ruins,275,412,550,1100,2200
+Conehead Mantis,9,"Rain, Snow, Rainbow",12:00PM-12:00AM,Onsen Mountain Ruins,515,772,1030,2060,4120
+Cicada,4,"Sun, Rain, Snow, Rainbow",12:00PM-6:00AM,Spirit Oak Pine Forest,220,330,440,880,1760
+Blue Morpho,7,"Sun, Rainbow",6:00AM-12:00AM,Spirit Oak Pine Forest,150,225,300,600,1200
+Spanish Moon Moth,9,"Sun, Rainbow",6:00PM-6:00AM,Spirit Oak Pine Forest,150,225,300,600,1200
+Golden Stag Beetle,9,"Rain, Snow, Rainbow",6:00PM-6:00AM,Spirit Oak Pine Forest,440,660,880,1760,3520
+Asparagus Beetle,1,"Sun, Rain, Snow, Rainbow",All Day,Flower Field,55,82,110,220,440
+Bumblebee,2,"Sun, Rain, Snow, Rainbow",All Day,Flower Field,110,165,220,440,880
+Katydid,3,"Sun, Rain, Snow, Rainbow",All Day,Amethyst Beach,180,270,360,720,1440
+Picasso Bug,8,"Sun, Rainbow",6:00PM-6:00AM,"Flower Field, Amethyst Beach",185,277,370,740,1480
+Purple Emperor,3,"Sun, Rainbow",12:00PM-6:00AM,Whale Mountain,90,135,180,360,720
+Splay-Footed Carpenter,5,"Sun, Rainbow",All Day,"Flower Field, Whale Mountain",165,247,330,660,1320
+Elegant Flower Beetle,7,"Rain, Snow, Rainbow",6:00AM-6:00PM,"Flower Field, Whale Mountain",275,412,550,1100,2200
+Peacock Butterfly,5,"Sun, Rain, Snow, Rainbow",All Day,Windmill Flower Field,90,135,180,360,720
+Mother of Pearl,9,"Rain, Snow, Rainbow",12:00AM-12:00PM,Windmill Flower Field,240,360,480,960,1920
+Morpho Helena,10,Rainbow,6:00AM-6:00PM,"Flower Field, Amethyst Beach",240,360,480,960,1920
+Old World Swallowtail,1,"Sun, Rain, Snow, Rainbow",All Day,Forest,30,45,60,120,240
+Wasp Beetle,3,"Sun, Rain, Snow, Rainbow",All Day,Forest,110,165,220,440,880
+Waroona Cuckoo Bee,3,"Sun, Rain, Snow, Rainbow",6:00AM-12:00AM,Forest Deer Tower,165,247,330,660,1320
+Alpine Longhorn Beetle,5,Rainbow,All Day,Forest Island,165,247,330,660,1320
+Asian Lady Beetle,5,"Rain, Snow, Rainbow",12:00PM-6:00AM,Forest Deer Tower,165,247,330,660,1320
+Beautiful Demoiselle,6,"Rain, Snow, Rainbow",All Day,Forest Lake Shore,110,165,220,440,880
+Golden Jewel Scarab,7,"Sun, Rainbow",12:00PM-12:00AM,Forest Jump Puzzle,275,412,550,1100,2200
+Stag Beetle,7,"Rain, Snow, Rainbow",6:00AM-12:00AM,Forest Jump Puzzle,275,412,550,1100,2200
+Bagworm Moth,10,"Sun, Rainbow",6:00PM-6:00AM,Forest Deer Tower,440,660,880,1760,3520
+Sunset Morpho,10,Rainbow,6:00AM-6:00PM,Forest Deer Tower,240,360,480,960,1920
