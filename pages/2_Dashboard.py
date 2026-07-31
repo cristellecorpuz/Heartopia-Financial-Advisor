@@ -56,7 +56,25 @@ else:
         st.plotly_chart(fig_bar, use_container_width=True)
 
     st.divider()
+    colD, colE = st.columns(2)
     
+    with colD:
+        st.subheader("Average Response Latency")
+        if 'Latency_Seconds' in df.columns:
+            daily_latency = df.groupby('Date')['Latency_Seconds'].mean().reset_index()
+            fig_latency = px.line(daily_latency, x='Date', y='Latency_Seconds', markers=True, color_discrete_sequence=['#ff97ff'])
+            st.plotly_chart(fig_latency, use_container_width=True)
+        else:
+            st.info("No latency data available yet.")
+
+    with colE:
+        st.subheader("Token Usage Distribution")
+        if 'Tokens' in df.columns:
+            fig_hist = px.histogram(df, x='Tokens', nbins=10, color_discrete_sequence=['#00b4d8'])
+            st.plotly_chart(fig_hist, use_container_width=True)
+        else:
+            st.info("No token data available yet.")
+            
     st.subheader("Recent Queries & Retrieved Context")
     display_df = df.sort_values(by="Timestamp", ascending=False).head(15)
     
