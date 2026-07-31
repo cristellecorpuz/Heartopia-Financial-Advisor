@@ -1,0 +1,62 @@
+ID,Question,Expected Category,Retrieval Hit,Expected Answer,LLM Answer
+1,Where can I catch a Largemouth Bass?,fish,True,You can catch a Largemouth Bass at the Forest Lake.,"Based on the provided context, you can catch a Largemouth Bass at **Forest Lake**."
+2,What time does the Blue Morpho insect appear?,insect,True,The Blue Morpho appears between 6:00AM and 12:00AM.,"Based on the provided context, the Blue Morpho insect appears from **6:00 AM to 12:00 AM**."
+3,What ingredients do I need to bake an Apple Pie?,cook,True,"You need 1 Apple, 1 Wheat, 1 Egg, and 1 Butter.","To bake an Apple Pie, you need the following ingredients according to the recipe:
+
+* 1 Apple
+* 1 Wheat
+* 1 Egg
+* 1 Butter"
+4,How much does a 5-star Blueberry Jam cost?,cook,True,A 5-star Blueberry Jam costs 1360 coins.,"Based on the provided context:
+
+* **5-Star Price:** 1360
+* **Total Cost (to make):** All ingredients are foraged (0 monetary cost)
+* **Net Profit 5 (for a 5-star jam):** 1360.0"
+5,Where can I buy Blue Sugar?,crops,True,You can buy Blue Sugar at Doris' shop.,"Based on the provided data, you can buy Blue Sugar from Doris at the Doris store for a base price of 150.0."
+6,How much does a seed of wheat cost?,crops,True,A seed of wheat costs 95 coins.,"Based on the provided context, the seed cost for Wheat is **95**."
+7,Where can I buy meat?,crops,False,You can buy meat at the Massimo's shop.,"Based on the provided context, you can buy meat at Massimo's store (sold by Massimo) for a base price of 200.0."
+8,Where can I buy seeds of Tea Tree?,crops,True,You can buy seeds of Tea Tree at Blanc's shop.,"Based on the provided context, you can buy Tea Tree seeds from **Blanc** for a seed cost of **25**."
+9,"If I sell 50 1 star truffle pasta, how much raw profit will I make?",cook,True,"If you sell 50 truffle pasta, you will make a 23950 coins profit.","Based on the provided context for **Black Truffle Cream Pasta** (referred to as truffle pasta):
+
+* **Raw profit per item:** 479
+
+To find the total raw profit for selling 50 units:
+
+$$\text{Total Raw Profit} = 50 \times 479 = 23,950$$
+
+If you sell 50 of the 1-star Black Truffle Cream Pasta, you will make a raw profit of **23,950**."
+10,"If I sell 10 3 star Blueberry Jam and 5 5 star Blueberry Jam, how much will I make?",cook,True,"If you sell 10 3 star Blueberry Jam and 5 5 star Blueberry Jam, you will make a total of 10200 coins.","Based on the context provided, here is the step-by-step calculation to find out how much you will make:
+
+1. **Find the prices for Blueberry Jam:**
+   * **3-Star Price** (or Net profit 3) of Blueberry Jam = 340
+   * **5-Star Price** (or Net profit 5) of Blueberry Jam = 1360
+
+2. **Calculate the earnings for 10 of the 3-star Blueberry Jam:**
+   $$\text{10} \times 340 = 3400$$
+
+3. **Calculate the earnings for 5 of the 5-star Blueberry Jam:**
+   $$\text{5} \times 1360 = 6800$$
+
+4. **Calculate the total amount made:**
+   $$3400 + 6800 = 10200$$
+
+If you sell 10 3-star Blueberry Jam and 5 5-star Blueberry Jam, you will make **10,200**."
+11,"If I sell 3-star King Eider birds and a 5-star Great Green Macaw, how much will I make?",bird,True,"If you sell 3-star King Eider birds and a 5-star Great Green Macaw, you will make a total of 620 coins.","Based on the provided context, here is the step-by-step mathematical calculation for selling these birds (assuming you are selling one 3-star King Eider bird):
+
+1. **Find the price of a 3-star King Eider:** 
+   According to the context, the 3-Star Price for a King Eider is **140**.
+
+2. **Find the price of a 5-star Great Green Macaw:** 
+   According to the context, the 5-Star Price for a Great Green Macaw is **480**.
+
+3. **Calculate the total earnings:**
+   $$\text{Total} = 140 \text{ (King Eider)} + 480 \text{ (Great Green Macaw)} = 620$$
+
+If you sell one 3-star King Eider bird and one 5-star Great Green Macaw, you will make **620**."
+12,"If I sell a 5 star truffle pie and a 3 star Amur Falcon bird, how much will I make?","['cook', 'bird']",True,"If you sell a 5 star truffle pie and a 3 star Amur Falcon bird, you will make a total of 7160 coins.",I don't have data for that.
+13,"If I sell 15 Apollo and 3 Pink Kayatid, how much will I make?",insect,True,"If you sell 15 Apollo and 3 Pink Kayatid, you will make a total of 720 coins.",I don't have data for that.
+14,Can I buy Tiramisu from Blanc?,crops,True,"No, you cannot buy Tiramisu from Blanc.",I don't have data for that.
+15,Can I buy Tiramisu from Massimo?,crops,False,"No, you cannot buy Tiramisu from Massimo.",I don't have data for that.
+16,Where can I buy clothes?,none,True,I don't have data for that.,I don't have data for that.
+17,Where can I buy a 5-star Blueberry Jam?,cook,True,You cannot buy a 5-star Blueberry Jam from any shop.,I don't have data for that.
+18,Where can I find a wood pecker bird?,none,True,I dont have any data for that.,I don't have data for that.
