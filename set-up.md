@@ -25,43 +25,26 @@ git clone [https://github.com/cristellecorpuz/Heartopia-Financial-Advisor.git](h
 cd Heartopia-Financial-Advisor
 ```
 
-<h2> 2.2 Set up virtual environment (optional) </h2>
-It is highly recommended to use a virtual environment to manage dependencies.
+<h2> 2.2 Launch the Application </h2>
+Because this application is fully containerized, you can spin up both the Streamlit frontend and the ChromaDB vector database with a single command:
+Ensure Docker Desktop is running before executing this command. Once built, the Streamlit app will be available at http://localhost:8501 and ChromaDB will run in the background on localhost:8000.
 
 ```bash
+docker-compose up -d --build
+```
+<h2> 2.3 Ingest Data </h2>
+Before asking questions in the UI, you need to populate the database with the Heartopia game data. To run the ingestion notebook safely without polluting your global Python environment, set up a quick virtual environment:
+
+```bash
+# Create and activate the virtual environment
 python -m venv .venv
+source .venv/bin/activate  # On Windows use: .venv\Scripts\activate
 
-.venv\Scripts\activate
-
-source .venv/bin/activate
-```
-<h2> 2.3 Install dependencies </h2>
-With your virtual environment activated, install the required Python packages:
-
-```bash
+# Install the dependencies
 pip install -r requirements.txt
-```
-<h2> 2.4 Start the Vector Database (Docker) </h2>
-The application relies on ChromaDB running in a Docker container. Spin up the background service using Docker Compose:
-Ensure Docker Desktop is running before executing this command. The ChromaDB server will run on localhost:8000.
 
-```bash
-docker-compose up -d
-```
-<h2> 2.5 Ingest the Data </h2>
-Before asking questions, you need to populate the database with the Heartopia game data. You can do this by opening the ingest2.ipynb notebook in your preferred editor (like VS Code or Jupyter) and running all the cells.
-Alternatively, you can execute the notebook directly from your terminal:
-
-```bash
+# Run the ingestion notebook
 jupyter nbconvert --to notebook --execute ingest2.ipynb
-```
-
-<h2> Run the App </h2>
-Once the data is ingested and the database is running, you can launch the frontend application.
-Run the following command to start the Streamlit UI:
-
-```bash
-streamlit run chat.py
 ```
 
 If you encounter any error, feel free to message me on linkedIn 📧.
