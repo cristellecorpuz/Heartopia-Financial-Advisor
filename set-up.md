@@ -1,9 +1,11 @@
 # Set up and Installation Guide
 <h2> 1.1 Prerequisites </h2>
 Before you begin, ensure you have the following installed on your system:
+
 - Python 3.10+
 - Docker Desktop (and Docker Compose) to run the ChromaDB container.
 - Git
+
 You will also need active API keys for the language models:
 - Google Gemini API Key (Primary LLM)
 - OpenAI API Key (Fallback LLM & Evaluation)
