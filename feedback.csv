@@ -1,0 +1,51 @@
+Timestamp,Question,Answer,Rating,Tokens,Latency_Seconds,Context
+2026-07-26 14:10:54,Where is Doris?,Simulated Answer,Thumbs Up,394,3.62,Item: Blueberry Jam | Sell Price: 170 | Raw Material: Blueberries
+2026-07-27 23:10:54,Where is Doris?,Simulated Answer,Thumbs Up,267,3.11,Item: Blueberry Jam | Sell Price: 170 | Raw Material: Blueberries
+2026-07-29 13:10:54,Where is Doris?,Simulated Answer,Thumbs Up,373,3.33,Item: Blueberry Jam | Sell Price: 170 | Raw Material: Blueberries
+2026-07-30 14:10:54,Where is Doris?,Simulated Answer,Thumbs Up,259,3.4,NPC: Doris | Location: Town Square | Schedule: 8AM-5PM
+2026-07-28 21:10:54,How much is blueberry jam?,Simulated Answer,Thumbs Down,202,3.58,NPC: Doris | Location: Town Square | Schedule: 8AM-5PM
+2026-07-25 04:10:54,How much is blueberry jam?,Simulated Answer,Thumbs Up,394,2.46,Item: Blueberry Jam | Sell Price: 170 | Raw Material: Blueberries
+2026-07-27 20:10:54,Where is Doris?,Simulated Answer,Thumbs Up,219,2.93,NPC: Doris | Location: Town Square | Schedule: 8AM-5PM
+2026-07-24 19:10:54,Profit for truffle pie?,Simulated Answer,Thumbs Up,175,1.21,NPC: Doris | Location: Town Square | Schedule: 8AM-5PM
+2026-07-25 03:10:54,How much is blueberry jam?,Simulated Answer,Thumbs Up,204,3.19,NPC: Doris | Location: Town Square | Schedule: 8AM-5PM
+2026-07-30 14:10:54,Profit for truffle pie?,Simulated Answer,Thumbs Up,307,4.35,"Recipe: Truffle Pie | Profit: 500 | Ingredients: Truffle, Flour"
+2026-07-28 07:10:54,Profit for truffle pie?,Simulated Answer,Thumbs Up,198,1.74,Item: Blueberry Jam | Sell Price: 170 | Raw Material: Blueberries
+2026-07-24 21:10:54,Profit for truffle pie?,Simulated Answer,Thumbs Up,277,3.56,Item: Blueberry Jam | Sell Price: 170 | Raw Material: Blueberries
+2026-07-30 06:10:54,Where is Doris?,Simulated Answer,Thumbs Up,312,4.18,Item: Blueberry Jam | Sell Price: 170 | Raw Material: Blueberries
+2026-07-28 15:10:54,Where is Doris?,Simulated Answer,Thumbs Up,231,4.24,Item: Blueberry Jam | Sell Price: 170 | Raw Material: Blueberries
+2026-07-29 14:10:54,How much is blueberry jam?,Simulated Answer,Thumbs Up,298,2.17,NPC: Doris | Location: Town Square | Schedule: 8AM-5PM
+2026-07-25 07:10:54,How much is blueberry jam?,Simulated Answer,Thumbs Up,152,1.9,Item: Blueberry Jam | Sell Price: 170 | Raw Material: Blueberries
+2026-07-28 09:10:54,Where is Doris?,Simulated Answer,Thumbs Up,154,1.68,NPC: Doris | Location: Town Square | Schedule: 8AM-5PM
+2026-07-27 13:10:54,Profit for truffle pie?,Simulated Answer,Thumbs Up,308,2.49,Item: Blueberry Jam | Sell Price: 170 | Raw Material: Blueberries
+2026-07-28 05:10:54,Where is Doris?,Simulated Answer,Thumbs Down,174,1.51,Item: Blueberry Jam | Sell Price: 170 | Raw Material: Blueberries
+2026-07-26 17:10:54,Profit for truffle pie?,Simulated Answer,Thumbs Down,153,3.32,Item: Blueberry Jam | Sell Price: 170 | Raw Material: Blueberries
+2026-07-30 08:10:54,Profit for truffle pie?,Simulated Answer,Thumbs Up,205,2.76,"Recipe: Truffle Pie | Profit: 500 | Ingredients: Truffle, Flour"
+2026-07-25 15:10:54,How much is blueberry jam?,Simulated Answer,Thumbs Up,369,3.3,NPC: Doris | Location: Town Square | Schedule: 8AM-5PM
+2026-07-26 11:10:54,How much is blueberry jam?,Simulated Answer,Thumbs Up,182,2.75,Item: Blueberry Jam | Sell Price: 170 | Raw Material: Blueberries
+2026-07-30 20:10:54,Profit for truffle pie?,Simulated Answer,Thumbs Up,208,1.59,"Recipe: Truffle Pie | Profit: 500 | Ingredients: Truffle, Flour"
+2026-07-25 16:10:54,How much is blueberry jam?,Simulated Answer,Thumbs Up,283,3.89,"Recipe: Truffle Pie | Profit: 500 | Ingredients: Truffle, Flour"
+2026-07-26 02:10:54,Profit for truffle pie?,Simulated Answer,Thumbs Up,167,3.99,"Recipe: Truffle Pie | Profit: 500 | Ingredients: Truffle, Flour"
+2026-07-27 06:10:54,Profit for truffle pie?,Simulated Answer,Thumbs Down,162,1.28,"Recipe: Truffle Pie | Profit: 500 | Ingredients: Truffle, Flour"
+2026-07-25 10:10:54,Profit for truffle pie?,Simulated Answer,Thumbs Up,360,3.5,"Recipe: Truffle Pie | Profit: 500 | Ingredients: Truffle, Flour"
+2026-07-25 20:10:54,How much is blueberry jam?,Simulated Answer,Thumbs Up,372,3.51,NPC: Doris | Location: Town Square | Schedule: 8AM-5PM
+2026-07-27 16:10:54,Where is Doris?,Simulated Answer,Thumbs Up,324,2.18,"Recipe: Truffle Pie | Profit: 500 | Ingredients: Truffle, Flour"
+2026-07-28 11:10:54,Where is Doris?,Simulated Answer,Thumbs Up,339,1.46,"Recipe: Truffle Pie | Profit: 500 | Ingredients: Truffle, Flour"
+2026-07-28 09:10:54,How much is blueberry jam?,Simulated Answer,Thumbs Up,284,3.26,NPC: Doris | Location: Town Square | Schedule: 8AM-5PM
+2026-07-25 09:10:54,Where is Doris?,Simulated Answer,Thumbs Up,321,2.96,"Recipe: Truffle Pie | Profit: 500 | Ingredients: Truffle, Flour"
+2026-07-29 05:10:54,How much is blueberry jam?,Simulated Answer,Thumbs Up,387,4.11,"Recipe: Truffle Pie | Profit: 500 | Ingredients: Truffle, Flour"
+2026-07-28 14:10:54,Where is Doris?,Simulated Answer,Thumbs Up,289,2.34,Item: Blueberry Jam | Sell Price: 170 | Raw Material: Blueberries
+2026-07-29 15:10:54,Profit for truffle pie?,Simulated Answer,Thumbs Up,231,1.74,NPC: Doris | Location: Town Square | Schedule: 8AM-5PM
+2026-07-28 03:10:54,How much is blueberry jam?,Simulated Answer,Thumbs Up,246,4.27,"Recipe: Truffle Pie | Profit: 500 | Ingredients: Truffle, Flour"
+2026-07-30 14:10:54,Profit for truffle pie?,Simulated Answer,Thumbs Up,294,1.7,"Recipe: Truffle Pie | Profit: 500 | Ingredients: Truffle, Flour"
+2026-07-26 08:10:54,Profit for truffle pie?,Simulated Answer,Thumbs Up,355,3.55,Item: Blueberry Jam | Sell Price: 170 | Raw Material: Blueberries
+2026-07-25 05:10:54,Profit for truffle pie?,Simulated Answer,Thumbs Up,343,2.87,Item: Blueberry Jam | Sell Price: 170 | Raw Material: Blueberries
+2026-07-28 06:10:54,Profit for truffle pie?,Simulated Answer,Thumbs Down,436,2.94,NPC: Doris | Location: Town Square | Schedule: 8AM-5PM
+2026-07-26 06:10:54,Profit for truffle pie?,Simulated Answer,Thumbs Up,156,2.0,"Recipe: Truffle Pie | Profit: 500 | Ingredients: Truffle, Flour"
+2026-07-30 09:10:54,Profit for truffle pie?,Simulated Answer,Thumbs Up,219,4.19,Item: Blueberry Jam | Sell Price: 170 | Raw Material: Blueberries
+2026-07-29 01:10:54,Where is Doris?,Simulated Answer,Thumbs Down,161,1.33,NPC: Doris | Location: Town Square | Schedule: 8AM-5PM
+2026-07-29 11:10:54,How much is blueberry jam?,Simulated Answer,Thumbs Down,180,1.71,"Recipe: Truffle Pie | Profit: 500 | Ingredients: Truffle, Flour"
+2026-07-28 21:10:54,How much is blueberry jam?,Simulated Answer,Thumbs Up,405,2.2,"Recipe: Truffle Pie | Profit: 500 | Ingredients: Truffle, Flour"
+2026-07-26 11:10:54,Where is Doris?,Simulated Answer,Thumbs Up,327,3.83,NPC: Doris | Location: Town Square | Schedule: 8AM-5PM
+2026-07-30 16:10:54,Where is Doris?,Simulated Answer,Thumbs Up,193,4.09,NPC: Doris | Location: Town Square | Schedule: 8AM-5PM
+2026-07-27 05:10:54,Where is Doris?,Simulated Answer,Thumbs Down,341,2.73,Item: Blueberry Jam | Sell Price: 170 | Raw Material: Blueberries
+2026-07-24 21:10:54,How much is blueberry jam?,Simulated Answer,Thumbs Up,251,2.88,"Recipe: Truffle Pie | Profit: 500 | Ingredients: Truffle, Flour"
