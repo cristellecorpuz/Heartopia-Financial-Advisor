@@ -28,8 +28,12 @@ The data is gathered first as an xlsx file where the items are separated through
 <h2> Ingestion and Containerization </h2>
 Once the data is cleaned, it is structured into semantically dense text chunks. These chunks are processed through the all-MiniLM-L6-v2 embedding model to generate numerical vectors. The vectors and their associated metadata are then ingested into a ChromaDB instance, which runs persistently as a background service via docker-compose.
 
+[ingest script](ingest2.ipynb)
+
 <h2> Retrieval </h2>
 When a user interacts with the Streamlit frontend, the system orchestrates a multi-step process to retrieve the correct information. First, the user's natural language query is vectorized using the all-MiniLM-L6-v2 model. The application then pings the local ChromaDB server to perform a semantic search, returning the top 5 (k=5) most relevant data chunks based on their mathematical proximity to the query. These retrieved chunks and the original query are then combined into a strict system prompt, which explicitly instructs the AI to act as a Heartopia game assistant and to rely only on the provided context to answer the question. This prompt is routed to Gemini 3.5 Flash, which serves as the primary generation engine due to its optimal balance of token efficiency. Furthermore, to guarantee high availability, the application features a fallback architecture. If the primary Gemini API hits rate limits (HTTP 429) or experiences server outages (HTTP 503), the system automatically catches the error and implements a backoff retry loop. If the primary model ultimately fails, the request is routed to a secondary OpenAI GPT-4o-mini client, ensuring the user always receives a response.
+
+[retrieval script](retrieval2.ipynb)
 
 # 📊 Evaluation Criteria
 To ensure the reliability of the Retrieval-Augmented Generation (RAG) pipeline, the system's retrieval component was quantitatively evaluated.
@@ -39,5 +43,6 @@ The vector search performance of the ChromaDB backend (powered by the `all-MiniL
 You can view the complete evaluation logic in the [evaluation.ipynb](Evaluation/evaluation.ipynb) notebook.
 
 <h2> Ready to try the code? </h2>
+
 [set-up.md](set-up.md)
 
