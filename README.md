@@ -12,7 +12,8 @@ The application is deployed using Streamlit. Figure 1 shows the chat interface t
 <p align="center"> Figure 2. Review Page </p>
 The review page is where users can freely submit suggestions on ways the application can improve. The submitted form is appended to my csv.
 
-<<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/b0d72efb-7131-4a8f-a141-fe1ab95011c9" />
+<img width="975" height="485" alt="image" src="https://github.com/user-attachments/assets/1b69d401-ceae-480b-bf37-310438ee9dc7" />
+<img width="975" height="486" alt="image" src="https://github.com/user-attachments/assets/38256552-6d50-4d9e-98ec-e1b92070e950" />
 <p align="center"> Figure 3. Dashboard </p>
 The dashboard page shows live update of feedbacks and recent queries of the user. This ensures that the developer can easily track and monitor anomalies while deployed.
 
